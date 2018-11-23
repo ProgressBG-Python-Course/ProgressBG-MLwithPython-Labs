@@ -1,0 +1,19 @@
+import numpy as np
+
+a1 = np.arange(1,28).reshape(3,3,3)
+SIZE = 1_000_000
+
+def multidim_index_tuple():
+  for i in range(SIZE):
+    x = a1[1,1,1]
+
+def multidim_index_chained():
+  for i in range(SIZE):
+    x = a1[1][1][1]
+
+
+
+
+
+%time multidim_index_tuple()
+%time multidim_index_chained()

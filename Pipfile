@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+verify_ssl = true
+url = "https://pypi.org/simple"
+
+[packages]
+jupyterlab = "*"
+matplotlib = "*"
+jupytext = "*"
+bpython = "*"
+pandas = "*"
+"mpld3" = "*"
+scipy = "*"
+scikit-learn = "*"
+seaborn = "*"
+wbdata = "*"
+jupyter-contrib-nbextensions = "*"
+jupyter-nbextensions-configurator = "*"
+jupyter = "*"
+mlxtend = "*"
+
+[dev-packages]
+pylint = "*"
+
+[requires]
+python_version = "3.7"

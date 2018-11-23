@@ -1,0 +1,33 @@
+import pandas as pd
+import numpy as np
+
+def data_frame_props():
+  df = pd.read_csv("../../../datasets/drinks.csv")
+  print(df.head(5))
+  print('*'*30)
+  # print(f"df.index: ${df.index}")
+  # print(f"df.columns: ${df.columns}")
+  # print(f"df.values: ${df.values}")
+
+  print(type(df.country))
+  print(type(df['country']))
+  print(type(df[['country']]))
+
+
+def creating_df_from_objects():
+  arr = np.array([1,2,3])
+  # print(arr)
+
+  df = pd.DataFrame(arr, columns = ["a"])
+  print(type(df["a"].values[0:2]))
+
+
+def aligninig_dataframes():
+  df1 = pd.DataFrame([[1,2,3],[10,20,30]], columns=["a", "b", "c"])
+  df2 = pd.DataFrame([[1,2,3],[10,20,30]], columns=["b", "c", "d"])
+  df = (df1 + df2).fillna(0)
+  print(df)
+
+
+# creating_df_from_objects()
+%prun x=1

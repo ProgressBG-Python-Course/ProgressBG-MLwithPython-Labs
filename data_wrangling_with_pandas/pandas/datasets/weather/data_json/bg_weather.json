@@ -1,0 +1,5 @@
+{
+  "town": ["Sofia", "Sandanski", "Pleven"],
+  "temp":[25,32,21],
+  "rain": [false, false, true ]
+}
