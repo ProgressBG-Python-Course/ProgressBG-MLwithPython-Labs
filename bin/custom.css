@@ -1,0 +1,42 @@
+/*
+Placeholder for custom user CSS
+
+mainly to be overridden in profile/static/custom/custom.css
+
+This will always be an empty file in IPython
+*/
+
+/*for the error , connecting & renaming window*/
+
+[dir="rtl"] .modal-footer {
+	text-align : left !important;
+}
+
+[dir="rtl"] .close {
+	float : left;
+}
+
+[dir="rtl"] .fa-step-forward::before {
+    content: "\f048";
+}
+
+
+/*iep edit*/
+#notebook, #notebook-container{
+  padding-left:0
+}
+
+.text_cell_render p{
+  font-size: 1.2em;
+  font-family: sans;
+  line-height: 1.4;
+}
+.CodeMirror-code .CodeMirror-line {
+  font-family: monospace;
+  font-size: 1.2em;
+  line-height: 1.2;
+}
+
+/*for .CodeMirror-code comments?*/
+/*color: #408080;*/
+/*font-style: italic;*/

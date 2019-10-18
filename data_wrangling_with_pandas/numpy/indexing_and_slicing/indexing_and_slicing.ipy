@@ -1,0 +1,39 @@
+import numpy as np
+
+def one_dim():
+  a1 = np.arange(1,10)
+  print(a1)
+
+  # positive index - from left to right
+  print(a1[1])
+
+  # negative index - from right to left
+  print(a1[-1])
+
+  # basic slicing
+  print(a1[0:3])
+
+  print(a1[0:9:2])
+
+  print(a1[::2])
+
+  print(a1[-1::-2])
+
+def multi_dim():
+  a1 = np.arange(1,10).reshape(3,3)
+  print(a1)
+  # [[1 2 3]
+  #  [4 5 6]
+  #  [7 8 9]]
+
+  print(a1[1,1])
+  # 5
+
+  print(a1[1,])
+  # [4 5 6]
+
+  print(a1[0:2, 0:2])
+  # [[1 2]
+  #  [4 5]]
+
+one_dim()

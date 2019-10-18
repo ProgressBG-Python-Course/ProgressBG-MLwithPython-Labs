@@ -1,0 +1,303 @@
+[
+    {
+        "author": "Mike Pirnat",
+        "authorUrl": "http://mike.pirnat.com/"
+	},
+    {
+        "author": "David Mertz",
+        "authorUrl": "http://www.oreilly.com/programming/free/functional-programming-python.csp"
+	},
+
+    {
+        "author": "Muhammad Yasoob",
+        "authorUrl": "http://pythontips.com/"
+	},
+    {
+        "author": "B. Miller & D. Ranum",
+        "authorUrl": "http://reputablejournal.com"
+	},
+    {
+        "author": "Jeffrey Elkner...",
+        "authorUrl": "http://greenteapress.com/"
+	},
+    {
+        "author": "B. Miller & D. Ranum",
+        "authorUrl": "http://reputablejournal.com/"
+	},
+    {
+        "author": "Zed A. Shaw",
+        "authorUrl": "http://learnpythonthehardway.org/"
+	},
+    {
+        "author": "Mark Pilgrim",
+        "authorUrl": "http://getpython3.com/diveintopython3/"
+	},
+    {
+        "author": "Mark Pilgrim",
+        "authorUrl": "http://getpython3.com/diveintopython3/"
+	},
+    {
+        "author": "Allen B. Downey",
+        "authorUrl": "http://www.greenteapress.com/"
+	},
+    {
+        "author": "Kivy",
+        "authorUrl": "http://kivy.org/"
+	},
+    {
+        "author": "Community",
+        "authorUrl": "https://docs.djangoproject.com/en/dev/intro/"
+	},
+    {
+        "author": "Community",
+        "authorUrl": "http://pyramid.readthedocs.org/en/latest/index.html"
+	},
+    {
+        "author": "Armin Ronacher",
+        "authorUrl": "http://lucumr.pocoo.org/"
+	},
+    {
+        "author": "Al Sweigart",
+        "authorUrl": "http://inventwithpython.com"
+	},
+    {
+        "author": "Ian Ozsvald",
+        "authorUrl": "http://ianozsvald.com/2011/07/25/high-performance-python-tutorial-v0-2-from-europython-2011"
+	},
+    {
+        "author": "Swaroop C H",
+        "authorUrl": "http://www.swaroopch.org/"
+	},
+    {
+        "author": "Dave Kuhlman",
+        "authorUrl": "http://www.rexx.com/~dkuhlman"
+	},
+    {
+        "author": "Fredrik Lundh",
+        "authorUrl": "http://effbot.org/zone/"
+	},
+    {
+        "author": "Jason R. Briggs",
+        "authorUrl": "http://jasonrbriggs.com"
+	},
+    {
+        "author": "Jan Erik Solem",
+        "authorUrl": "http://www.janeriksolem.net/"
+	},
+    {
+        "author": "S. Bird, E. Klein...",
+        "authorUrl": "http://www.nltk.org/"
+	},
+    {
+        "author": "Allen B. Downey",
+        "authorUrl": "http://www.greenteapress.com/"
+	},
+    {
+        "author": "Allen B. Downey",
+        "authorUrl": "http://www.greenteapress.com/"
+	},
+    {
+        "author": "Allen B. Downey",
+        "authorUrl": "http://www.greenteapress.com/"
+	},
+    {
+        "author": "Doug Hellman",
+        "authorUrl": "http://www.doughellmann.com/"
+	},
+    {
+        "author": "John C. Lusth",
+        "authorUrl": "http://lusth.cs.ua.edu/"
+	},
+    {
+        "author": "Steven F. Lot",
+        "authorUrl": "http://www.itmaybeahack.com"
+	},
+    {
+        "author": "Steven F. Lot ",
+        "authorUrl": "http://www.itmaybeahack.com"
+	},
+    {
+        "author": "Steven F. Lot ",
+        "authorUrl": "http://homepage.mac.com/s_lott/"
+	},
+    {
+        "author": "By The Community",
+        "authorUrl": "http://scipy-lectures.github.com/AUTHORS.html"
+	},
+    {
+        "author": "Gérard Swinnen",
+        "authorUrl": "http://inforef.be/swi/python.htm"
+	},
+    {
+        "author": "Gérard Swinnen",
+        "authorUrl": "http://inforef.be/swi/python.htm"
+	},
+    {
+        "author": "Kushal Das",
+        "authorUrl": "http://kushaldas.in"
+	},
+    {
+        "author": "Patrick Fuchs",
+        "authorUrl": "http://www.dsimb.inserm.fr/~fuchs/"
+	},
+    {
+        "author": "Bruno R. Preiss",
+        "authorUrl": "http://www.brpreiss.com"
+	},
+    {
+        "author": "Jesse Noller",
+        "authorUrl": "http://jessenoller.com/"
+	},
+    {
+        "author": "Google",
+        "authorUrl": "http://developers.google.com"
+	},
+    {
+        "author": "Lennart Regebro",
+        "authorUrl": "http://regebro.wordpress.com/"
+	},
+    {
+        "author": "Josh Cogliati and others",
+        "authorUrl": "http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3"
+	},
+    {
+        "author": "Kenneth Reitz",
+        "authorUrl": "http://kennethreitz.com/"
+	},
+    {
+        "author": "Cam Davidson-Pilon",
+        "authorUrl": "http://www.camdp.com"
+	},
+    {
+        "author": "Massimo Di Pierro",
+        "authorUrl": "http://web2py.com"
+	},
+    {
+        "author": "Al Sweigart",
+        "authorUrl": "http://coffeeghost.net"
+	},
+    {
+        "author": "Tom De Smedt",
+        "authorUrl": "http://www.organisms.be/"
+	},
+    {
+        "author": "Harry Percival",
+        "authorUrl": "http://www.oreillynet.com/pub/au/5721"
+	},
+    {
+        "author": "Kenneth Love",
+        "authorUrl": "http://brack3t.com/"
+	},
+    {
+        "author": "Jody S. Ginther",
+        "authorUrl": "http://www.toonzcat.com/book.html"
+	},
+    {
+        "author": "Agiliq",
+        "authorUrl": "http://agiliq.com/"
+	},
+    {
+        "author": "Raúl González Duque",
+        "authorUrl": "http://mundogeek.net/"
+	},
+    {
+        "author": "Sat Kumar Tomer",
+        "authorUrl": "http://civil.iisc.ernet.in/~satkumar/"
+	},
+    {
+        "author": "Ron Zacharski",
+        "authorUrl": "http://zacharski.org/"
+	},
+    {
+        "author": "Al Sweigart",
+        "authorUrl": "http://coffeeghost.net"
+	},
+    {
+        "author": "Various authors",
+        "authorUrl": "http://biopython.org/wiki/Main_Page"
+	},
+    {
+        "author": "David Mertz",
+        "authorUrl": "http://gnosis.cx/TPiP/"
+	},
+    {
+        "author": "Leif Azzopardi",
+        "authorUrl": "http://leifos.me"
+	},
+    {
+        "author": "Anand Chitipothu.",
+        "authorUrl": "http://anandology.com/"
+	},
+    {
+        "author": "Various authors",
+        "authorUrl": "http://chimera.labs.oreilly.com/books/1230000000393"
+	},
+    {
+        "author": "Robert Picard.",
+        "authorUrl": "http://robert.io"
+	},
+    {
+        "author": "Community",
+        "authorUrl": "https://djangogirls.org/"
+	},
+    {
+        "author": "John B. Schneider...",
+        "authorUrl": "http://www.eecs.wsu.edu/~schneidj/"
+	},
+    {
+        "author": "Sean M. Tracey",
+        "authorUrl": "http://sean.mtracey.org/"
+	},
+    {
+        "author": "Al Sweigart",
+        "authorUrl": "http://inventwithpython.com/blog/author/admin/"
+	},
+    {
+        "author": "Ian Ozsvald",
+        "authorUrl": "http://ianozsvald.com/"
+	},
+    {
+        "author": "Matt Makai",
+        "authorUrl": "http://www.mattmakai.com/"
+	},
+    {
+        "author": "Pierluigi Riti",
+        "authorUrl": "https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-python2"
+	},
+    {
+        "author": "Fabrizio Romano",
+        "authorUrl": "https://www.packtpub.com/packt/free-ebook/learning-python"
+	},
+    {
+        "author": "Gabriel A. Cánepa",
+        "authorUrl": "https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-machine-learning2"
+	},
+    {
+        "author": "Willi Richert, Luis Pedro Coelho",
+        "authorUrl": "https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms"
+	},
+    {
+        "author": "Hector Cuesta",
+        "authorUrl": "https://www.packtpub.com/packt/free-ebook/practical-data-analysis"
+	},
+    {
+        "author": "Tim Cox",
+        "authorUrl": "https://www.packtpub.com/packt/free-ebook/python-raspberry-pi-cookbook"
+	}  ,
+    {
+        "author": "Massimo Di Pierro",
+        "authorUrl": "https://twitter.com/mdipierro"
+	},
+    {
+        "author": "Charles R. Severance",
+        "authorUrl": "http://www.dr-chuck.com/"
+	},
+    {
+        "author": "Caleb Hattingh",
+        "authorUrl": "http://www.oreilly.com/pub/au/6789"
+	},
+    {
+        "author": "John Hearty",
+        "authorUrl": "https://www.packtpub.com/packt/free-ebook/advanced-python-machine-learning"
+	}
+]
