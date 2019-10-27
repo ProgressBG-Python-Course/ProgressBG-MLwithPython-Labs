@@ -1,2 +1,5 @@
 update slides with ELISA demo link
 ins. space in 27 slide on Tools
+~~~
+NumPy:
+TODO: make more comprehensive example of memory comparison between lists and ndarrays
