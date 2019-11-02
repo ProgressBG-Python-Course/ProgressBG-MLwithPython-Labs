@@ -3,3 +3,6 @@ ins. space in 27 slide on Tools
 ~~~
 NumPy:
 TODO: make more comprehensive example of memory comparison between lists and ndarrays
+~~~ 
+check NDaeerays.ipynb for TODO
+example of auto data gen for Series/DF indexing
