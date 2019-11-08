@@ -13,6 +13,7 @@ seaborn = "*"
 jupyterlab = "*"
 scikit-learn = "*"
 xlrd = "*"
+bpython = "*"
 
 [requires]
 python_version = "3.7"
