@@ -6,3 +6,5 @@ TODO: make more comprehensive example of memory comparison between lists and nda
 ~~~ 
 check NDaeerays.ipynb for TODO
 example of auto data gen for Series/DF indexing
+~~~
+TODO: explain groupby
