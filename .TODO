@@ -8,3 +8,8 @@ check NDaeerays.ipynb for TODO
 example of auto data gen for Series/DF indexing
 ~~~
 TODO: explain groupby
+~~~~
+HW:
+1. IRIS dataset with lots NaN values - clean and train
+2. Linear Reagression on Boston Houses
+
