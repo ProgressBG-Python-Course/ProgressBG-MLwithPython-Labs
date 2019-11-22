@@ -1,1 +1,0 @@
-football_news = 'Instead of one ball, on that match there were five football balls'
