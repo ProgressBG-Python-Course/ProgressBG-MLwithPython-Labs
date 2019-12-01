@@ -12,4 +12,7 @@ TODO: explain groupby
 HW:
 1. IRIS dataset with lots NaN values - clean and train
 2. Linear Reagression on Boston Houses
+~~~~
+add df.map demos
+
 
