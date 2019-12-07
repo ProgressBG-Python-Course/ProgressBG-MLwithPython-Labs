@@ -1,3 +1,13 @@
 {
-    "python.pythonPath": "/home/nemsys/projects/courses/ProgressBG/ProgressBG-MLwithPython/ProgressBG-MLwithPython-Labs/.venv/bin/python3.5"
+    "python.pythonPath": ".venv/bin/python",
+    "spellright.language": [
+        "English (American)"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "html",
+        "python"
+    ]
 }
