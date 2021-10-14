@@ -2,4 +2,4 @@
 
 ## Branches:
   - **code** - the source code, depicting the Presentations examples
-  - **labs** - the code, written in labs
+  - **GroupID** -  the code, written in labs for given GroupID
