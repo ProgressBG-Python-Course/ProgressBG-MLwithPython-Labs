@@ -1,0 +1,15 @@
+outlook,humidity,windy,play
+sunny,high,false,no
+sunny,high,true,no
+overcast,high,false,yes
+rainy,high,false,yes
+rainy,normal,false,yes
+rainy,normal,true,no
+overcast,normal,true,yes
+sunny,high,false,no
+sunny,normal,false,yes
+rainy,normal,false,yes
+sunny,normal,true,yes
+overcast,high,true,yes
+overcast,normal,false,yes
+rainy,high,true,no

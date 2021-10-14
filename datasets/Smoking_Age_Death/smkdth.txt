@@ -1,0 +1,14 @@
+Dataset: smkdth.dat
+
+Source: E.C. Hammond and D. Horn (1954). "The Relationship Between
+Human Smoking Habits and Death Rates", JAMA, Aug. 7, 1954, pp1316-1328.
+
+Description: Classification of adult males by smoking status, age
+classification and occurence of death during 2 year cohort study.
+
+Variables/Columns
+
+Smoking status  8  /* 0=No, 1=Yes  */
+Age classification  16  /* 1=50-54, 2=55-59, 3=60-64, 4=65-69  */
+Death staus  24   /* 0=Survival   1=Death   */
+Number of cases   28-32
