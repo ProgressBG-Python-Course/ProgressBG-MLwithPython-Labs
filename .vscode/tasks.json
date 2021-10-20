@@ -4,7 +4,7 @@
         {
             "label": "Python: Terminal (external)",
             "type": "shell",
-            "command": "~/.venv/bin/python",
+            "command": "python",
             "args": [
                 "${file}"
             ],
